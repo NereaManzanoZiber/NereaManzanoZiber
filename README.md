@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 ¡Hola! Soy Nerea Manzano
 
-<!--
-**NereaManzanoZiber/NereaManzanoZiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy estudiante de Zubiri Manteo y actualmente estoy aprendiendo y desarrollando mis conocimientos en el mundo de la programación y la tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me considero una persona responsable, curiosa y con ganas de aprender, especialmente interesada en seguir mejorando mis habilidades y afrontar nuevos retos.
+
+
+💻 Tecnologías y conocimientos
+
+Actualmente tengo conocimientos en:
+
+
+🌐 HTML y CSS
+
+💾 SQL
+
+🖥️ JavaScript
+
+🔧 Git y GitHub
+
+
+
+⭐ Gracias por visitar mi repositorio. ¡Espero que podamos crear algo interesante juntos!
